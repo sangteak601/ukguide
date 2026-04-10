@@ -2,4 +2,19 @@ title: 영국 생존 가이드
 description: 실제 영국에 체류 중인 한인들이 함께 만드는 영국 생활 가이드입니다. 영국에서의 생활에 필요한 정보와 팁을 공유하여, 영국에서의 생활이 더욱 편리하고 즐거울 수 있도록 돕는 것을 목표로 합니다.
 theme: just-the-docs
 
+nav_enabled: true
+
 url: https://just-the-docs.github.io
+
+footer_content: "틀린 내용을 발견하거나 추가하고 싶은 내용이 있다면 <a href=\"https://salt-lace-abb.notion.site/27fe6f37e0af80cf91a4f0e2f4078178?pvs=105\" target=\"_blank\">내용 추가/변경 요청하기</a>를 통해 알려주세요. 영국에서의 생활에 도움이 되는 정보를 함께 만들어가요!"
+
+callouts:
+  tip:
+    title: 꿀팁 🍯
+    color: yellow
+  trouble:
+    title: 시행착오 😵‍💫
+    color: green
+  term:
+    title: 용어 정리 ℹ️
+    color: blue

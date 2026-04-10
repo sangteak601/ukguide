@@ -1,35 +1,17 @@
 ---
-title: Home
+title: 영국 생존 가이드
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 영국 생존 가이드 🇬🇧
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+이 가이드는 영국에서 살아가는 한국인들을 위한 생활 가이드입니다. 타지에서 생활하는 것은 누구에게나 쉽지 않고, 생각지 못한 문제들을 마주치기도 합니다. 그 중에는 한국인들에게 특히 자주 발생하거나 어렵게 느껴지는 것들도 있습니다. 이처럼 한국인들에게 특히 적합한 가이드의 필요성을 느끼고 이 가이드북을 제작하게 되었습니다.
 
-More specifically, the created site:
+블로그나 카페와 같은 곳에서도 정보를 찾을 수 있지만, 많은 내용들이 파편화되어 있어 찾기 어렵고, 오래되어 현실과 맞지 않기도 합니다. 최근에는 특히 AI가 생성한 부정확한 정보들이 점점 많아지고 있어 신뢰할 수 있는 정보를 찾는 것이 더욱 어려워지고 있습니다. 제가 처음 영국에 왔을 때에도 부정확하거나 오래된 정보들이 많아 정확한 정보를 찾는 것이 어려웠고, 많은 시행착오를 겪기도 했습니다.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+물론, 각자가 처한 환경과 겪을 수 있는 문제가 정말 다양하고 시간에 따라 계속 변화하기 때문에 그 모든 내용을 담기는 어려울 것입니다. 더욱이 한두명의 경험만으로는 내용이 부족하거나 부정확할 수 있습니다. 따라서, 이 가이드북은 **모두가 함께 만들어가는 가이드북**을 지향하고자 합니다.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+가이드북을 읽으시면서 틀린 정보나 오래된 정보, 또는 영국 생활을 하며 알게된 본인만의 꿀팁이 있다면 꼭 **내용 추가/변경 요청하기**를 통해 알려주시기를 부탁드립니다. 내용 추가/변경 요청하기는 각 페이지의 하단부에서 찾으실 수 있고, 제공해주신 정보는 가이드의 품질 유지를 위해 검토를 거친 뒤에 가이드북에 추가됩니다.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+이 가이드북이 영국 생활을 시작하는 많은 분들에게 조금이라도 도움이 되기를 바랍니다.
