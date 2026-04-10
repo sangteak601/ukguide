@@ -1,8 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 영국 생존 가이드
+description: 실제 영국에 체류 중인 한인들이 함께 만드는 영국 생활 가이드입니다. 영국에서의 생활에 필요한 정보와 팁을 공유하여, 영국에서의 생활이 더욱 편리하고 즐거울 수 있도록 돕는 것을 목표로 합니다.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
