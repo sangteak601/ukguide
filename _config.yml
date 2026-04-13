@@ -21,3 +21,6 @@ callouts:
   term:
     title: 용어 정리 ℹ️
     color: blue
+
+ga_tracking: G-RWC9EN0H8W
+ga_tracking_anonymize_ip: true
