@@ -5,6 +5,7 @@ theme: just-the-docs
 favicon_ico: "/assets/flag-gb.ico"
 
 nav_enabled: true
+search_enabled: false
 
 url: https://ukguide.shop
 
