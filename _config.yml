@@ -1,6 +1,7 @@
 title: 영국 생존 가이드
 description: 한인들을 위한 영국 생존 가이드
 theme: just-the-docs
+lang: ko
 
 favicon_ico: "/assets/flag-gb.ico"
 
@@ -24,4 +25,3 @@ callouts:
     color: blue
 
 ga_tracking: G-RWC9EN0H8W
-ga_tracking_anonymize_ip: true

@@ -1,5 +1,6 @@
 ---
 title: 출국 전 준비
+description: 영국 출국 전 비자, 짐싸기, 항공권 등 필수 준비사항 총정리
 layout: default
 nav_order: 2
 ---

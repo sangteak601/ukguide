@@ -1,5 +1,6 @@
 ---
 title: 안전
+description: 영국 생활 안전 정보 — 의료, 치안, 날씨 대비 가이드
 layout: default
 nav_order: 6
 ---

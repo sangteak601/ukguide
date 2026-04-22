@@ -1,5 +1,6 @@
 ---
 title: 문화
+description: 영국 문화 특징 — 공공 서비스, 생활 방식 등 한국과의 차이점
 layout: default
 nav_order: 5
 ---

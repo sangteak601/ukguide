@@ -1,5 +1,6 @@
 ---
 title: 입국 및 초기 정착
+description: 영국 입국 절차와 초기 정착 과정 총정리
 layout: default
 nav_order: 3
 ---
