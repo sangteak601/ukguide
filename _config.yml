@@ -23,5 +23,8 @@ callouts:
   term:
     title: 용어 정리 ℹ️
     color: blue
+  important:
+    title: 중요 ⚠️
+    color: red
 
 ga_tracking: G-RWC9EN0H8W
